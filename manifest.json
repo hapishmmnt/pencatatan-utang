@@ -1,0 +1,11 @@
+{
+  "background_color": "#ba5555",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Pencatatan Utang",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Pencatatan Utang",
+  "start_url": "/pencatatan-utang/",
+  "theme_color": "#000000"
+}
