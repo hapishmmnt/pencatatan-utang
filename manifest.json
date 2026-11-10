@@ -1,11 +1,16 @@
 {
-  "background_color": "#ba5555",
-  "dir": "ltr",
+  "name": "Catatan Utang Pribadi",
+  "short_name": "UtangKu",
+  "start_url": "/pencatatan-utang/index.html",
   "display": "standalone",
-  "name": "Pencatatan Utang",
-  "orientation": "any",
-  "scope": "/",
-  "short_name": "Pencatatan Utang",
-  "start_url": "/pencatatan-utang/",
-  "theme_color": "#000000"
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "description": "Aplikasi pencatatan utang pribadi minimalis.",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
